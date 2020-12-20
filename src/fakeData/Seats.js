@@ -1,0 +1,47 @@
+import AirlineSeatLegroomReducedIcon from '@material-ui/icons/AirlineSeatLegroomReduced';
+const Seats = [
+    {id: 1, icon: AirlineSeatLegroomReducedIcon},
+    {id: 2, icon: AirlineSeatLegroomReducedIcon},
+    {id: 3, icon: AirlineSeatLegroomReducedIcon},
+    {id: 4, icon: AirlineSeatLegroomReducedIcon},
+    {id: 5, icon: AirlineSeatLegroomReducedIcon},
+    {id: 6, icon: AirlineSeatLegroomReducedIcon},
+    {id: 7, icon: AirlineSeatLegroomReducedIcon},
+    {id: 8, icon: AirlineSeatLegroomReducedIcon},
+    {id: 9, icon: AirlineSeatLegroomReducedIcon},
+    {id: 10, icon: AirlineSeatLegroomReducedIcon},
+    {id: 11, icon: AirlineSeatLegroomReducedIcon},
+    {id: 12, icon: AirlineSeatLegroomReducedIcon},
+    {id: 13, icon: AirlineSeatLegroomReducedIcon},
+    {id: 14, icon: AirlineSeatLegroomReducedIcon},
+    {id: 15, icon: AirlineSeatLegroomReducedIcon},
+    {id: 16, icon: AirlineSeatLegroomReducedIcon},
+    {id: 17, icon: AirlineSeatLegroomReducedIcon},
+    {id: 18, icon: AirlineSeatLegroomReducedIcon},
+    {id: 19},
+    {id: 20},
+    {id: 21},
+    {id: 22},
+    {id: 23},
+    {id: 24},
+    {id: 25},
+    {id: 26},
+    {id: 27},
+    {id: 28},
+    {id: 29},
+    {id: 30},
+    {id: 31},
+    {id: 32},
+    {id: 33},
+    {id: 34},
+    {id: 35},
+    {id: 36},
+    {id: 37},
+    {id: 38},
+    {id: 39},
+    {id: 40}
+
+]
+
+
+export default Seats;
